@@ -3,5 +3,6 @@ console.log('Happy Birthday Anmol');
 
 hi();
 function hi() {
-  console.log(6+8);
+  let b = 89;
+  console.log(b);
 }

@@ -3,5 +3,7 @@ console.log('Happy Birthday Anmol');
 
 hi();
 function hi() {
-    console.log('Hey Folks Welcome to VComply');
+  let b = 89;
+  console.log(b);
+  console.log('Hey Folks Welcome to VComply');
 }

@@ -5,4 +5,5 @@ hi();
 function hi() {
   let b = 89;
   console.log(b);
+  console.log('Hey Folks Welcome to VComply');
 }

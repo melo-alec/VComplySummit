@@ -3,5 +3,5 @@ console.log('Happy Birthday Anmol');
 
 hi();
 function hi() {
-    console.log('Hey folks welcome to VComply');
+  console.log(6+8);
 }
